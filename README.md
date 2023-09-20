@@ -7,7 +7,7 @@ The primary objective of this project is to conduct analytics on H&M's customer 
 AWS EMR, AWS S3, AWS STEP FUNCTION, AWS GLUE, AWS RDS, AWS REDSHIFT, APACHE SPARK, TERRAFORM, GITHUB ACTIONS 
 
 ## Kaggle Dataset Link:
-https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data?select=images
+https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/data
 
 ## ARCHITECTURE:
 
